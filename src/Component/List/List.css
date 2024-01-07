@@ -4,9 +4,20 @@
   margin: 20px;
   padding: 20px;
   width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
   
 }
 .test {
   text-decoration: line-through;
   background-color:gray;
+}
+.container{
+  display: flex;
+
+}
+.input{
+  display: flex;
 }
